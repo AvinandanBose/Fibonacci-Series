@@ -180,6 +180,20 @@ $𝑻_𝟎$ = 𝟎 , 𝒘𝒉𝒆𝒏 𝒏 = 𝟎 𝒂𝒍𝒔𝒐, $𝑻_𝟏$ 
 <h1 align="Center">𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑭𝒊𝒃𝒐𝒏𝒂𝒄𝒄𝒊 𝑺𝒆𝒓𝒊𝒆𝒔  </h1>
 
 <ul>
+
+<h3>𝑰𝒏 𝒇𝒊𝒃𝒐𝒏𝒂𝒄𝒄𝒊 𝒔𝒆𝒓𝒊𝒆𝒔 ∶ 𝑻(𝒏) = 𝑻(𝒏 − 𝟏) + 𝑻(𝒏 − 𝟐), 𝒘𝒉𝒆𝒓𝒆 `𝒏` 𝒊𝒔 𝒈𝒓𝒆𝒂𝒕𝒆𝒓 𝒕𝒉𝒂𝒏 𝟏 ,
+𝒘𝒉𝒆𝒏 `𝒏` = 𝟎 , 𝑻(𝒏) = 𝟎 𝒂𝒏𝒅 𝑻(𝒏) = 𝟏 , 𝒘𝒉𝒆𝒏 `𝒏` = 𝟏, 𝒕𝒉𝒆𝒔𝒆 𝒂𝒓𝒆 𝒃𝒂𝒔𝒆 𝒄𝒂𝒔𝒆𝒔 𝒇𝒐𝒓
+𝒇𝒊𝒃𝒐𝒏𝒂𝒄𝒄𝒊 𝒔𝒆𝒓𝒊𝒆𝒔.</h3>
+
+<h3>𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑭𝒊𝒃𝒐𝒏𝒂𝒄𝒄𝒊 𝑺𝒆𝒓𝒊𝒆𝒔 =𝑶( $𝟐^𝒏$ ) .</h3>
+
+<h3> → <a href="https://github.com/AvinandanBose/Fibonacci-Series/blob/main/Fibonacci%20Series%20-Backward%20Substitution-Time%20Complexity.pdf">𝟏. 𝑭𝒊𝒏𝒅𝒊𝒏𝒈 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑭𝒊𝒃𝒐𝒏𝒂𝒄𝒄𝒊 𝑺𝒆𝒓𝒊𝒆𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝑩𝒂𝒄𝒌𝒘𝒂𝒓𝒅 𝑺𝒖𝒃𝒔𝒕𝒊𝒕𝒖𝒕𝒊𝒐𝒏 𝑴𝒆𝒕𝒉𝒐𝒅 -𝑰𝒏 𝑫𝒆𝒕𝒂𝒊𝒍𝒔. </a></h3>
+
+
+
+<h3> → <a href="https://github.com/AvinandanBose/Fibonacci-Series/blob/main/Fibonacci%20Series%20-Recursion%20Tree-Time%20Complexity.pdf"> 𝟐.𝑭𝒊𝒏𝒅𝒊𝒏𝒈 𝑻𝒊𝒎𝒆 𝑪𝒐𝒎𝒑𝒍𝒆𝒙𝒊𝒕𝒚 𝒐𝒇 𝑭𝒊𝒃𝒐𝒏𝒂𝒄𝒄𝒊 𝑺𝒆𝒓𝒊𝒆𝒔 𝒕𝒉𝒓𝒐𝒖𝒈𝒉 𝑹𝒆𝒄𝒖𝒓𝒔𝒊𝒐𝒏 𝑻𝒓𝒆𝒆  𝑴𝒆𝒕𝒉𝒐𝒅 -𝑰𝒏 𝑫𝒆𝒕𝒂𝒊𝒍𝒔.</a></h3>
+
+
   
 </ul>
 
